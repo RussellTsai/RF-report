@@ -1,0 +1,5 @@
+{
+  "name": "RF Data Expert - Excel Visualizer",
+  "description": "A specialized tool for analyzing and visualizing RF data from Excel files, allowing users to select titles, custom curves, and frequency ranges with automatic transposed data detection.",
+  "requestFramePermissions": []
+}
